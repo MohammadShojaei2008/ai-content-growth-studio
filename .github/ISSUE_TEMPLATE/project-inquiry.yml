@@ -1,0 +1,46 @@
+name: Project inquiry
+description: Public, non-confidential request about AI-assisted video scripts and creative strategy
+title: "[Inquiry] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for considering AI Content Growth Studio. **This issue and all responses will be public.** Do not include names, email addresses, client lists, login details, unpublished scripts, contracts, financial information, or other confidential material.
+
+        This public issue is only for an initial non-confidential inquiry. It does **not** create a contract or collect payment.
+  - type: dropdown
+    id: package
+    attributes:
+      label: What are you interested in?
+      options:
+        - 3–5-minute script pilot (indicative $35)
+        - Ten short-form scripts (indicative $99)
+        - A different writing/creative brief
+    validations:
+      required: true
+  - type: textarea
+    id: project
+    attributes:
+      label: Tell us about the public-facing project
+      description: Share only public, non-sensitive details, such as topic, content format, approximate length, and deadline.
+      placeholder: E.g. a 4-minute educational YouTube video for a publicly launched fitness channel
+    validations:
+      required: true
+  - type: dropdown
+    id: timeframe
+    attributes:
+      label: Approximate timeframe
+      options:
+        - Within 7 days
+        - 1–2 weeks
+        - More than 2 weeks
+        - Not sure yet
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Before posting
+      options:
+        - label: I understand this GitHub issue is publicly visible and is not a purchase or contract.
+          required: true

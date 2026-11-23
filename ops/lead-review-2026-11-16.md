@@ -575,3 +575,11 @@ New public-source exclusions: [Attuned AI freelance copywriter/editor](https://w
 - [Tanzer HR original writer opening](https://in.linkedin.com/in/aravind-kanakam-613a41365): **Hyderabad full-time**, not studio microproject; rejected.
 - Original technical bounty search surfaced no independently verified free-to-claim funded Python/docs issue with established payout; no claim.
 - **No newly verified eligible paid buyer with a current original public email application route.** Retain daily capacity rather than send speculative or prohibited outreach. Prepared Day 8 marketing assets still not distributed; no impressions or sales inferred.
+
+
+## November 23 midday — original-source verification
+
+- Rechecked complete AgentMail inbox (11 messages, no next page) and threads (2, no next page), including spam/trash. Nov 23 Amsterdam sends **0/3**; cumulative **9 AgentMail sends + 2 separately authorized old applications = 11 attempts**, one Pixl Studios confirmed DNS bounce. No buyer replies, DAY 8 PILOT inquiry, new bounces, accepted contracts, revenue or expenses. No sends.
+- Fresh original-source exploration across short-video scripts, marketing copy and open-source bounty search yielded **zero newly fully qualified original employer requests** with current paid beginner-eligible scope and an exact publicly published email route. Search hits are not counted as leads.
+- [Chargebee original recruiter call](https://nl.linkedin.com/in/marlous-stam) publishes email and B2B SaaS copywriting tasks but is **4 years old**, asks for existing B2B copywriter experience, Europe-based applicant, and interview hosting; not current or eligible. [Tanzer HR original scriptwriter post](https://in.linkedin.com/in/aravind-kanakam-613a41365) is a **Hyderabad full-time** position requiring personal resume; excluded. The other surfaced posts were service advertisements, career advice or candidate pitches rather than buyer requests. No funded, free-to-claim technical/docs bounty verified.
+- No application sent; do not count prepared marketing CTA as posted or paid. Continue original-source microproject discovery without personal information or unauthorized channels.

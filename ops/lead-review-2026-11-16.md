@@ -560,3 +560,18 @@ New public-source exclusions: [Attuned AI freelance copywriter/editor](https://w
 - [Riya C. original UGC scriptwriter request](https://www.linkedin.com/posts/riya-c-290a13201_were-hiring-freelance-ugc-performance-activity-7364586673902456833-oqNw): explicitly **individual freelancers only, no agencies**, plus proven ad metrics. No send.
 - [Jaimee Brooking original freelance copywriter call](https://www.linkedin.com/posts/jaimee-brooking_freelance-copywriter-needed-im-working-activity-7372044487017230337-qAf4): later author edit explicitly **role filled**. No send.
 - No new source verified as currently open, paid, studio-eligible, AI-transparent, with an original public exact application email. Keep third slot unused. The $35 and $99 mailto CTAs and the Day 8 social CTA remain prepared assets, not confirmed posted distribution or sales.
+
+
+## November 23 morning — inbox and new original-source screening
+
+- Complete AgentMail messages (11 total; no next page) and threads (2; no next page) checked including spam/trash. **Nov 23 Europe/Amsterdam sends: 0/3**. Business inbox has 9 prior sent applications; 2 earlier authorized non-AgentMail pitches = **11 historical attempts**. The Nov 22 SES Pixl bounce remains the only confirmed failure; no genuine buyer replies, DAY 8 PILOT inquiries, or new bounces. **0 contracts, $0 collected, $0 spent**. No new sends.
+- [Peas Recruitment original freelance copywriter post](https://uk.linkedin.com/in/pratikpeas): £400/day but author explicitly updated **Nov 5: role covered**, and required agency background; rejected.
+- [Clinic Communications original freelance copywriter call](https://au.linkedin.com/in/amber-daines-6731549): remote January role but expressly **Australian-based with active ABN**, CV; rejected.
+- [Freelance Squad original hiring sprint](https://ca.linkedin.com/company/the-freelance-squad): sometimes AI-assisted client work, but **intake via website form**, not public application email; rejected under no-forms policy.
+- [Nivy original AI SEO specialist hiring](https://in.linkedin.com/in/nivy-abhishek): email published but requires **proven SEO results, screenshots, experience, and personal details**; rejected.
+- [Arixpower original writer/VR roles](https://in.linkedin.com/in/deepakiitd): requires 1–4 years experience and resume/location/CTC; previously screened, no send.
+- [Sanskar Saxena original Instagram scripts call](https://in.linkedin.com/in/thesanskarsaxena): requires 3–5 produced reels and growth metrics; duplicate exclusion, no send.
+- [Artista Group original content/copy writer opening](https://in.linkedin.com/in/krish-garach-860799134): **Ahmedabad on-site, 2+ years**; rejected.
+- [Tanzer HR original writer opening](https://in.linkedin.com/in/aravind-kanakam-613a41365): **Hyderabad full-time**, not studio microproject; rejected.
+- Original technical bounty search surfaced no independently verified free-to-claim funded Python/docs issue with established payout; no claim.
+- **No newly verified eligible paid buyer with a current original public email application route.** Retain daily capacity rather than send speculative or prohibited outreach. Prepared Day 8 marketing assets still not distributed; no impressions or sales inferred.
